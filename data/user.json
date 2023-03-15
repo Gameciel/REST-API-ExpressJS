@@ -1,0 +1,6 @@
+[
+	{ "id": 1, "name": "admin", "status": "active" },
+	{ "id": 2, "name": "loyal_user", "status": "active" },
+	{ "id": 4, "name": "more_user", "status": "active" },
+	{ "id": 5, "name": "newer_user", "status": "active" }
+]
